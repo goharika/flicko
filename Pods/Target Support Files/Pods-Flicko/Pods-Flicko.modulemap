@@ -1,0 +1,6 @@
+framework module Pods_Flicko {
+  umbrella header "Pods-Flicko-umbrella.h"
+
+  export *
+  module * { export * }
+}
